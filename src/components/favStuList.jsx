@@ -16,7 +16,7 @@ function FavStudentList() {
     }
     return (
         <>
-            <div style={{ minHeight: "90vh" }}>
+            <div style={{ minHeight: "80vh" }}>
                 {
                     favStudent.map(function (item, index) {
                         return (
