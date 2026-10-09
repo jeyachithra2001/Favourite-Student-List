@@ -14,7 +14,7 @@ function StudentNameList() {
     }
     return (
         <>
-            <div style={{minHeight:"80vh"}}>
+            <div style={{minHeight:"70vh"}}>
                 {
                     studentList.map(function (item) {
                         return (
