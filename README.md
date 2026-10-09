@@ -2,6 +2,10 @@
 
 A React-based web application that allows users to view a list of students, add students to their favourite list, and remove them whenever needed. This project demonstrates the use of React Router, Context API, and the "useContext" hook for navigation and global state management.
 
+🔴 Live Link
+
+(https://favourite-student-list-brown-omega.vercel.app/)
+
 ✨ Features
 
 - 👨‍🎓 Student List: Display student details dynamically using the "map()" method.
